@@ -1,0 +1,20 @@
+= mktrs-jps-spring-boot-starter
+
+V2024.1.0
+
+JaCoCo
+Sonar
+
+As this is not asynchronous, it uses *_RestClient_* (requires *Spring Boot 3.2*).
+
+== References
+
+=== Spring Boot Starter
+* https://www.youtube.com/watch?v=9m1bC57oWrc[How to create your own custom Spring Boot Starter^]
+* https://medium.com/@truongbui95/jacoco-code-coverage-with-spring-boot-835af8debc68[JaCoCo Code Coverage with Spring Boot^]
+
+=== RestClient/WebClient/RestTemplate
+* https://digma.ai/restclient-vs-webclient-vs-resttemplate/[RestClient vs. WebClient vs RestTemplate: Choosing the right library to call REST API in Spring ‌Boot - Jan.8/2024^]
+
+== AssertJ
+* https://www.baeldung.com/assertj-exception-assertion[AssertJ Exception Assertions^]
