@@ -1,3 +1,7 @@
+:toc: macro
+:toclevels: 5
+:toc-placement!:
+
 = mktrs-jps-spring-boot-starter
 
 V2024.1.0
@@ -6,6 +10,8 @@ JaCoCo
 Sonar
 
 As this is not asynchronous, it uses *_RestClient_* (requires *Spring Boot 3.2*).
+
+toc::[]
 
 == References
 
