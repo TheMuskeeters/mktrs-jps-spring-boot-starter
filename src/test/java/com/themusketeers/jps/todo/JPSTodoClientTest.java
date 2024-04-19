@@ -13,6 +13,7 @@ import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
 import com.themusketeers.jps.common.config.JsonPlaceholderServiceConfiguration;
 import com.themusketeers.jps.common.config.JsonPlaceholderServiceProperties;
+import com.themusketeers.jps.todo.model.Todo;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.autoconfigure.AutoConfigurations;

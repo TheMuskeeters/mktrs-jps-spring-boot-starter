@@ -12,6 +12,7 @@ import static com.themusketeers.jps.common.constants.TodoClientConstants.TODOS_A
 import static com.themusketeers.jps.common.constants.TodoClientConstants.TODOS_API_ID;
 
 import com.themusketeers.jps.JPSClient;
+import com.themusketeers.jps.todo.model.Todo;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.core.ParameterizedTypeReference;

@@ -6,7 +6,7 @@
  History
  Mar.08/2024  COQ  File created.
  -----------------------------------------------------------------------------*/
-package com.themusketeers.jps.todo;
+package com.themusketeers.jps.todo.model;
 
 /**
  * Represents a TODO information.
