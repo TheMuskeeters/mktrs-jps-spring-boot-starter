@@ -4,7 +4,7 @@
 
 = mktrs-jps-spring-boot-starter
 
-V2024.1.0
+V2025.1.0
 
 This is considered a demo library to showcase how to build a *Spring Boot Starter*.
 As this is not asynchronous, it uses *_RestClient_* as the underlying HTTP client to communicate to external endpoints (requires *Spring Boot 3.2*).
